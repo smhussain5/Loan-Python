@@ -16,6 +16,7 @@ print("WELCOME TO LOAN CALCULATOR.")
 print("It's simple. Just follow the prompts!\n")
 
 # VARIABLES
+
 PLAY_AGAIN = True
 
 while PLAY_AGAIN:
